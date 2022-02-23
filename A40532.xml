@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full account of the late dreadful earthquake at Port Royal in Jamaica written in two letters from the minister of that place : from a board the Granada in Port Royal harbour, June 22, 1692.</title>
+            <author>Heath, E., Rev.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40532</idno>
+            <idno type="STC">Wing F2267</idno>
+            <idno type="STC">ESTC R37356</idno>
+            <idno type="EEBO-CITATION">16397067</idno>
+            <idno type="OCLC">ocm 16397067</idno>
+            <idno type="VID">105359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105359)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1092:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full account of the late dreadful earthquake at Port Royal in Jamaica written in two letters from the minister of that place : from a board the Granada in Port Royal harbour, June 22, 1692.</title>
+                  <author>Heath, E., Rev.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jacob Tonson, and sold by R. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Heath by NUC pre-1956 imprints.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed Sept. 9, 1692."</note>
+                  <note>Imperfect: creased, with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Earthquakes --  Jamaica --  Port Royal.</term>
+               <term>Jamaica --  History --  To 1962.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:105359:1" rendition="simple:additions"/>
+            <head>A full ACCOUNT of the Late Dreadful Earthquake At <hi>PORT ROYAL</hi> in <hi>JAMAICA;</hi> Written in two Letters from the Miniſter of that Place.</head>
+            <head>From a Board the <hi>Granada</hi> in <hi>Port Royal</hi> Harbour, <hi>June 22, 1692.</hi>
+            </head>
+            <opener>
+               <dateline>Licenſed <date>
+                     <hi>Sept.</hi> 9, 1692.</date>
+               </dateline>
+            </opener>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>I Doubt not but you will both from Gazetts, and Letters hear of the gerat Calamity that hath befallen this Iſland by a Terrible Earth<g ref="char:EOLhyphen"/>quake, on the <hi>7th</hi> Inſtant, which hath thrown down almoſt all the Houſes, Churches, Su<g ref="char:EOLhyphen"/>gar-Works, Mills, and Bridges through the whole Country. It tore the Rocks and Mountains, and deſtroyed ſome whole Plantations, and threw them into the Sea, but <hi>Port-Royall</hi> had much the greateſt ſhare in this terrible Judgment of God; I will therefore be more particular in giving you an Ac<g ref="char:EOLhyphen"/>count of its Proceedings in the Place, that you may know what my danger was, and how unex<g ref="char:EOLhyphen"/>pected my Preſervation. On <hi>Wedneſday</hi> the <hi>7th</hi> of <hi>June</hi> I had been at Church Reading Prayers, which I did every day ſince I was Rector of <hi>Port-Royal,</hi> to keep up ſome ſhew of Religion among a moſt Ungodly Debauched People, and was gone to a Place hard by the Church, where the Merchants uſed to meet, and where the Preſident of the Coun<g ref="char:EOLhyphen"/>cil was, who acts now in Chief 'till we have a new Governour; who came into my Company, and engaged me to take a Glaſs of wormwood Wine with him as a whet before Dinner, he being my very great Friend, I ſtaid with him, upon which, he lighted a Pipe of Tobacco, which he was pretty long a taking; and not being willing to leave him before it was out, this detained me from going to Dinner to one Captain <hi>Ruden</hi>'s, where I was to Dine; whoſe Houſe upon the firſt Concuſſion ſunk firſt into the Earth, and then into the Sea, with his Wife, and Family, and ſome that were come to Dine with him; had I been there I had been loſt. But to Return to the Preſident, and his Pipe of Tobacco; before that was out, I found the ground rowling and moving under my feet, upon which I ſaid to him, <hi>Lord, Sir, what's this?</hi> he replyed very compoſedly, being a very Grave Man, <hi>It is an Earthquake, be not afraid, it will ſoon be over,</hi> but it increaſed, and we heard the Church and Tower fall, upon which, we ran to ſave our ſelves; I quickly loſt him, and made toward <hi>Morgan</hi>'s-<hi>Fort,</hi> which being a wide open place, I thought to be there ſecureſt from the falling Houſes; But as I made toward it, I ſaw the Earth open and ſwallow up a multitude of People, and the Sea mounting in upon us over the Fortifications. I then laid aſide all thoughts of eſcaping, and reſolv'd to make toward my own Lodging, and there to meet Death in as good a Poſture as I could: From the Place where I was, I was forced to croſs and run through two or three very narrow Streets, the Houſes and Walls fell on each ſide of me, ſome Bricks came rowling over my ſhooes, but none hurt me; when I came to my Lodging I found there all things in the ſame order I left them, not a Pi<g ref="char:EOLhyphen"/>cture, of which there were ſeveral fair ones in my Chamber, being out of its place, I went to my Balconey to view the Street in which our Houſe ſtood, and ſaw never a Houſe down there, nor the ground ſo much as crack'd; the People ſeeing me there, cry'd out to me to come and Pray with them; when I came into the Street every one laid hold on my Cloaths and embraced me, that with their fear and kindneſs I was almoſt ſtifled; I perſwaded them at laſt to kneel down and make a large Ring, which they did, I prayed with them near an hour, when I was almoſt ſpent with the heat of the Sun, and the exerciſe, they then brought me a Chair, the Earth working all the while with new motions, and tremblings, like the rowlings of the Sea; inſomuch that ſometimes when I was at Prayer I could hardly keep my ſelf upon my knees. By that time I had been half an hour longer with them, in ſetting be<g ref="char:EOLhyphen"/>fore them their Sins and heinous Provocations, and in ſeriouſly exhorting them to Repentance, there came ſome Mercahants to me of the place, who de<g ref="char:EOLhyphen"/>ſired me to go aboard ſome Ship in the Harbour, and refreſh my ſelf, telling me that they had gotten a Boat to carry me off; ſo coming to the Sea, which had entirely ſwallowed up the <hi>Wharf,</hi> with all thoſe goodly Brick Houſes upon it, moſt of them as fine as thoſe in <hi>Cheapſide,</hi> and two Intire Streets beyond that: I upon the tops of ſome Houſes which lay levelled with the ſurface of the water, got firſt into a Canoe, and then into a Long-Boat, which put me aboard a Ship called the <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am-Merchant,</hi> where I found the Preſident ſafe, who was over<g ref="char:EOLhyphen"/>joyed to ſee me; there I continued that night, but could not ſleep for the returns of the Earthquake almoſt every hour, which made all the Guns in the Ship to jarr and rattle: The next day I went from Ship to Ship to Viſit thoſe that were bruiſed, and a dying, and to Pray with them, and likewiſe to do the laſt Office at the ſinking of ſeveral Corps that came floating from the <hi>Point,</hi> which indeed hath been my ſorrowful Employment ever ſince I came aboard this Ship with deſign to come for <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> we having nothing but ſhakings of the Earth, and Thunder<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Lightning, and foul weather
+<pb n="2" facs="tcp:105359:2"/>ever ſince; and the People being ſo deſperately wicked it makes me afraid to ſtay in the Place; for that very day this terrible Earthquaqe was, as ſoon as night came on, a Company of lewd Rogues whom they call Privateers, fell to breaking open Warehouſes, and Houſes deſerted, to Rob and Rifle their Neighbours whilſt the Earth trem<g ref="char:EOLhyphen"/>bled under them, and ſome of the Houſes fell on them in the Act: And thoſe audacious Whores that remain ſtill upon the Place, are as Impudent, and Drunken as ever. I have been twice on Shoar to Pray with the Bruiſed and Dying People, and to Chriſten Children, where I met too many Drunk and Swearing, I did not ſpare them, nor the Ma<g ref="char:EOLhyphen"/>giſtrates neither, who have ſuffered Wickedneſs to grow to ſo great a height; I have I bleſs God, to the beſt of my skill and power diſcharged my Duty in this place, which you will hear from moſt Perſons that come from hence; I have Preached ſo ſeaſonably to them, and ſo plain in the laſt Sermon I Preached to them in the Church; I ſet before them what would be the iſſue of their impenitence, and Wickedneſs, that they have ſince confeſſed, that it was more like a Propheſie than a Sermon; I had, I confeſs, an impulſe on me to do it: And many times I have preached in this Pulpit, things that I never premeditated at home, and could not, me<g ref="char:EOLhyphen"/>thought, do otherwiſe. The day when all this befel us was very clear, afforded not the ſuſpition of the leaſt evil; but in the ſpace of three Minutes, about half an hour after Eleven in the Morning, <hi>Port Royal,</hi> the faireſt Town of all the <hi>Engliſh</hi> Plantati<g ref="char:EOLhyphen"/>ons, the beſt <hi>Emporium</hi> and Mart of the this part of the World, exceeding in its Riches, plentiful of all good things, was ſhaken and ſhattered to pieces, and ſunk into, and covered for the greateſt part, by the Sea, and will in a ſhort time be wholly eaten up by it; for few of thoſe Houſes that yet ſtand, are left whole, and every day we hear them fall, and the Sea daily incroaches upon it; we gueſs, that by the falling of the Houſes, and the opening of the Earth, and the Inundation of the Waters, there are loſt Fifteen hundred perſons, and many of good note, of whom my good Friend Attorney General <hi>Muſgrove,</hi> Provoſt Marſhal <hi>Reves</hi> another, my Lord Secretary <hi>Reves</hi> another. <hi>Will. Turner, Thomas Turner</hi>'s Brother is loſt, Mr. <hi>Swymer</hi> eſcaped, but his Houſe-mate, Mr. <hi>Watts,</hi> is loſt.</p>
+            <p>I came, I told you, on board this Ship in order to come home, but the People are ſo importunate with me to ſtay, I know not what to ſay to them; I muſt undergo great hardſhips if I continue here, the Country being broken all to pieces and diſſet<g ref="char:EOLhyphen"/>led, I muſt live now in a Hutt, eat Yams and Plan<g ref="char:EOLhyphen"/>tans for Bread, which I could never endure; drink Rumm-Punch and Water, which were never plea<g ref="char:EOLhyphen"/>ſing to me. I have writ to ſend a younger per<g ref="char:EOLhyphen"/>ſon, who may better endure the Fatigue of it than I can; but if I ſhould leave them now, it would look very unnatural to leave them in their diſtreſs; and therefore whatever I ſuffer, I would not have ſuch a blame lye at my door; and I am reſolv'd, That by reaſon of the preſent diſtreſs, to conti<g ref="char:EOLhyphen"/>nue with them a Year longer: They are going all in haſte to build a new Town near the Rock in <hi>Linnavea,</hi> the Guardian of this Iſland. The <hi>French</hi> from <hi>Pituguaveis</hi> did attack this Iſland on the <hi>North</hi> ſide, but were all defeated and deſtroy'd it being about the time of the Earthquake.</p>
+            <div type="day">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>June</hi> 28, 1692.</date>
+                  </dateline>
+               </opener>
+               <p>EVer ſince that fatal day, the moſt terrible that ever I ſaw in my life, I have liv'd on Board a Ship, for the ſhakings of the Earth return every now and then; Yeſterday we had a very great one, but it ſeems leſs terrible on Ship-board than on Shoar, yet I have ventur'd to <hi>Port-Royal</hi> no leſs than three times ſince its deſolation, among the ſhattered Houſes to Bury the dead, and Pray with the Sick, and Chri<g ref="char:EOLhyphen"/>ſten the Children. Sunday laſt I preached among them in a Tent, the Houſes that remain being ſo ſhatter'd, that I durſt not venture to Preach in them; the People are overjoy'd to ſee me among them, and wept bitterly when I preached to them: I hope by this terrible Judgment, God will make them reform their lives, for there was not a more ungodly People on the Face of the Earth. It is a ſad ſight to ſee all this Harbour, one of the faireſt and goodlieſt I ever ſaw covered with the dead Bodies of People of all conditions floating up and down with<g ref="char:EOLhyphen"/>out burial, for our great and famous Burial-place, called the <hi>Palliſadoes</hi> was deſtroyed by the Earth<g ref="char:EOLhyphen"/>quake, and the Sea waſhed the Carcakaſſes of thoſe that were buried out of their Graves, their Tombs being daſhed to pieces by the Earthquake, of which there were hundreds in that place: Multitudes of Rich Men are utterly ruin'd, whilſt many that were poor, by watching opportunities, and ſearching the wrack'd and ſunk Houſes, even almoſt while the Earthquake laſted, and terror and amazement were upon all the conſiderable People, have gotten great Riches. We have had Accounts from ſeveral parts of theſe Iſlands of the Miſchiefs done by the Earthquake; from St. <hi>Anns</hi> we hear of above 1000 Acres of Woodland chang'd into the Sea, and carried with it whole Plantations, but no place ſuffered like <hi>Port Royal;</hi> where whole Streets were ſwallowed up by the opening Earth, and the Houſes and Inhabitants went down together, ſome of them were driven up again by the Sea, which aroſe in thoſe breaches, and wonderfully eſcaped; ſome were ſwallowed up to the Neck, and then the Earth ſhut upon them, and ſqueezed them to death; and in that manner ſeveral are left buried with their Heads above ground, only ſome Heads the Dogs have eaten, others are covered with Duſt and Earth by the People which yet remain in the place, to a<g ref="char:EOLhyphen"/>void the ſtench. Thus, I have told you a long and a ſad Story, and God knows what worſe may hap<g ref="char:EOLhyphen"/>pen yet: the People tell me, that they hear great bellowings and noiſes in the Mountains, which makes ſome very apprehenſive of an eruption of Fire; if ſo, it will, I fear, be more deſtructive than the Earthquake. I am afraid to ſay, and yet I know not how, in point of Conſcience, at ſuch a juncture as this, to quit my Station.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jacob Tonſon,</hi> and Sold by <hi>R. Baldwyn.</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
